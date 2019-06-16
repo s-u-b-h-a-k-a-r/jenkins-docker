@@ -4,7 +4,8 @@
 [![](https://images.microbadger.com/badges/version/subhakarkotta/jenkins-docker.svg)](https://microbadger.com/images/subhakarkotta/jenkins-docker "Get your own version badge on microbadger.com")
 [![Build Status](https://travis-ci.org/subhakarkotta/jenkins-docker.svg?branch=master)](https://travis-ci.org/subhakarkotta/jenkins-docker)
 [![Docker Stars](https://img.shields.io/docker/stars/subhakarkotta/jenkins-docker.svg?style=flat)](https://hub.docker.com/r/subhakarkotta/jenkins-docker/)
-[![Docker Automated build](https://img.shields.io/docker/automated/subhakarkotta/jenkins-docker.svg?style=flat)]()
+[![Docker Automated build](https://img.shields.io/docker/cloud/automated/subhakarkotta/jenkins-docker.svg?style=flat)]()
+[![Docker build](https://img.shields.io/docker/cloud/build/subhakarkotta/jenkins-docker.svg?style=flat)]()
 [![Docker Pulls](https://img.shields.io/docker/pulls/subhakarkotta/jenkins-docker.svg)]()
 
 Supported tags and release links
