@@ -14,7 +14,7 @@ LABEL org.label-schema.vcs-ref=$VCS_REF \
 USER root
 
 RUN apt-get update -qq \
-    && apt-get install -qqy apt-transport-https ca-certificates gnupg2 software-properties-common curl
+    && apt-get install -qqy apt-transport-https ca-certificates gnupg2 curl software-properties-common
 
 RUN curl -fsSL https://download.docker.com/linux/debian/gpg | apt-key add -
 
